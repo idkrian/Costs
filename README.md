@@ -6,6 +6,9 @@ Foram utilizados React JS, React Icons, CSS e Json-Server.
 
 ## Modo de instalação:
 1 - Clonar ou baixar o repositório
-2 - Utiliar "npm install" para instalar as dependências
+<br />
+2 - Utilizar "npm install" para instalar as dependências
+<br />
 3 - Utilizar o "npm start" para rodar o projeto
+<br />
 4 - utilizar o "npm backend" para rodar o backend
